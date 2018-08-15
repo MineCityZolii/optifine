@@ -1,5 +1,5 @@
 # General
-of.general.ambiguous=zavaros
+of.general.ambiguous=Zavaros
 of.general.custom=Egyéni
 of.general.from=-ból
 of.general.id=Id
@@ -7,7 +7,7 @@ of.general.restart=újraindítás
 of.general.smart=Okos
 
 # Keys
-of.key.zoom=Zoom
+of.key.zoom=Nagyítás
 
 # Message
 of.message.aa.shaders1=Az Élsimítás nem kompatibilis a shaderekkel.
@@ -35,7 +35,7 @@ of.message.shaders.an1=A shaderek nem kompatibilisek a sztereoszkopikus 3D-vel.
 of.message.shaders.an2=Kérlek kapcsold Egyéb -> Sztereoszkopikus 3D-t ki.
 
 of.message.newVersion=Egy új §eOptiFine§f verzió elérhető: §e%s§f
-of.message.java64Bit=Tudsz telepíteni §e64-bit Java§f -t a teljesítmény növeléséhez.
+of.message.java64Bit=Ajánlott telepíteni §e64-bites Java§f -t a teljesítmény növeléséhez.
 of.message.openglError=§eOpenGL Error§f: %s (%s)
 
 of.message.shaders.loading=Shader betöltése: %s
@@ -138,7 +138,7 @@ of.options.chunkLoading.smooth=Lágy
 of.options.chunkLoading.multiCore=Kétmagos
 
 of.options.shaders=Shaderek...
-of.options.shadersTitle=Árnyékok és egyéb finomságok
+of.options.shadersTitle=Shader csomagok
 
 of.options.shaders.packNone=KI
 of.options.shaders.packDefault=(belső)
